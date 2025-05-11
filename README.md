@@ -21,3 +21,7 @@ The only error was in the input text, which did not display what I wrote.
 [solution 1](https://tailwindcss.com/docs/dark-mode)
 or
 [solution 2](https://tailwindcss.com/docs/color) 
+
+### TEST 
+![image](https://github.com/user-attachments/assets/326c5803-ca99-4426-95b0-3a40cfb3b7a0)
+
